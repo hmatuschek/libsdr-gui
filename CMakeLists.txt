@@ -9,7 +9,7 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR}/cmake)
 
 find_package(FFTW)
 find_package(FFTWSingle)
-find_package(LibSDR REQUIRED)
+find_package(Libsdr REQUIRED)
 
 find_package(Qt5Core REQUIRED)
 find_package(Qt5Widgets REQUIRED)
