@@ -1,0 +1,3 @@
+#! /usr/bin/dh-exec
+usr/lib/*/libsdr-gui.so
+usr/include/*
